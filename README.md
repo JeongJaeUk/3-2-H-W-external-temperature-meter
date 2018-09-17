@@ -1,0 +1,1 @@
+# HardWare_external_temperature_meter
